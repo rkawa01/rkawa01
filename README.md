@@ -1,5 +1,7 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @rkawa01
+- 👀 I’m interested in programming, web-developing etc. (right now mostly back-end)
+- 🌱 I’m currently learning computer-science at AGH 
+- 📫 How to reach me https://www.linkedin.com/in/radek-kawa-21a890269/
 <!--
 **rkawa01/rkawa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
